@@ -13,5 +13,4 @@ Step3:
 
 Step4:
     open vim and print ":PluginInstall"
-# END Install
 
