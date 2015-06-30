@@ -12,3 +12,9 @@ Step2:
 
 Step3:
     echo source ~/.my_vim/my_vimrc.vim >> ~/.vimrc   
+
+Step4:
+    vim
+    print ":PluginInstall"
+    install finish.
+
