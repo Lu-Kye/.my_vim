@@ -16,9 +16,8 @@ set pastetoggle=<F10>
 set autoread
 
 " Color Scheme
-colorscheme Benokai
-
 syntax enable
+colorscheme Benokai
 
 set rtp+=$GOROOT/misc/vim
 filetype plugin indent on

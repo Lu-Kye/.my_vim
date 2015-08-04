@@ -1,4 +1,4 @@
-# Golang vim config
+# vim config
 
 # Install
 Step1:
