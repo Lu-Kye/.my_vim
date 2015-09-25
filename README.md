@@ -3,7 +3,7 @@
 # Install
 Step1:
     cd ~
-    git clone git@github.com:Lu-Kye/.my_vim.git
+    git clone https://github.com/Lu-Kye/.my_vim.git
 
 Step2:
     git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim

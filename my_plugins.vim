@@ -16,8 +16,10 @@ Plugin 'majutsushi/tagbar'
 Plugin 'rking/ag.vim'
 " Plugin 'Shougo/unite.vim'
 " Plugin 'Valloric/YouCompleteMe'
+"
 " Golang
 Plugin 'fatih/vim-go'
+
 " CSharp
 " Plugin 'nosami/Omnisharp'
 
