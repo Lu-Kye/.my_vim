@@ -57,6 +57,10 @@ set ignorecase
 " Highlight search results
 set hlsearch
 
-" Default to soft tabs, 2 spaces
-set sw=4
-set sts=4
+" Tab
+filetype plugin indent on
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+set clipboard=unnamed
