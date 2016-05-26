@@ -22,3 +22,6 @@ vim
 ```
     Type :PluginInstall
 
+###Finally:
+    Enjoy yourself
+
