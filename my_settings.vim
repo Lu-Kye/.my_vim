@@ -1,13 +1,5 @@
 " Sets how many lines of history VIM has to remember
 set history=700
-
-" Enable yy to clipboard
-set clipboard=unnamed
-
-" Enable filetype plugins
-filetype plugin on
-filetype indent on
-
 set nocompatible
 set backspace=indent,eol,start
 set pastetoggle=<F10>
@@ -58,9 +50,13 @@ set ignorecase
 set hlsearch
 
 " Tab
-filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
 
+" Enable filetype plugins
+filetype plugin on
+filetype indent on
+
+" Enable yy to clipboard
 set clipboard=unnamed
