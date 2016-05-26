@@ -1,5 +1,8 @@
 # Vim Configuration
 
+##Screenshot
+![](screenshot1.png)
+
 ## Install
 ###Step1:
 ```bash
@@ -24,4 +27,3 @@ vim
 
 ###Finally:
     Enjoy yourself
-
