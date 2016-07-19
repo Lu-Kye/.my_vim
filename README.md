@@ -6,6 +6,7 @@
 ## Install
 ###Step1:
 ```bash
+brew install vim
 brew install ctags
 cd ~ && git clone https://github.com/Lu-Kye/.my_vim.git
 ```
