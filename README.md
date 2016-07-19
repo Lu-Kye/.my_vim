@@ -1,7 +1,11 @@
 # Vim Configuration
 
-##Screenshot
+## Screenshot
 ![](screenshot1.png)
+
+## Precondition
+- On Mac OSX
+- Intalled homebrew
 
 ## Install
 ###Step1:
