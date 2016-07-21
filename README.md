@@ -49,3 +49,8 @@ vim
 ###Finally:
     Enjoy yourself
 
+## Features
+- Different settings in different files
+- *F5* brings up [NERDTree](https://github.com/scrooloose/nerdtree)
+- *F6* brings up ctags
+ 
