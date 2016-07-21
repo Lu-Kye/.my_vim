@@ -11,15 +11,16 @@
 ## Screenshot
 ![](screenshot1.png)
 
-## Precondition
+## Features
+- Different settings in different files
+- *F5* brings up [NERDTree](https://github.com/scrooloose/nerdtree)
+- *F6* brings up ctags
+
+## Install
+###Precondition
 - On Mac OSX
 - Intalled homebrew
 
-## 先决条件
-- 苹果系统
-- 安装homebrew 
-
-## Install
 ###Step1:
 ```bash
 brew install vim
@@ -46,8 +47,4 @@ vim
 ###Finally:
     Enjoy yourself
 
-## Features
-- Different settings in different files
-- *F5* brings up [NERDTree](https://github.com/scrooloose/nerdtree)
-- *F6* brings up ctags
  
