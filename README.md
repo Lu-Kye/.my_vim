@@ -11,9 +11,6 @@
 ## Screenshot
 ![](screenshot1.png)
 
-## 截图
-![](screenshot1.png)
-
 ## Precondition
 - On Mac OSX
 - Intalled homebrew
