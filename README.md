@@ -1,4 +1,4 @@
-# Vim Configuration || Vim Config
+# Vim Configuration
 - Keymaps/Hotkeys/Shortcuts
 - Plugin settings
 - Settings
