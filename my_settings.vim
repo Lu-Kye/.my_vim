@@ -58,5 +58,5 @@ set expandtab
 filetype plugin on
 filetype indent on
 
-" Enable yy to clipboard
+" Enable copy to clipboard
 set clipboard=unnamed
