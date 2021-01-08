@@ -9,9 +9,9 @@ set autoread
 
 " Color Scheme
 syntax enable
-colorscheme Benokai
+" colorscheme Benokai
 
-set rtp+=$GOROOT/misc/vim
+" set rtp+=$GOROOT/misc/vim
 filetype plugin indent on
 syntax on
 

@@ -24,11 +24,13 @@ let g:loaded_ctrlp = 1
 
 " YouCompleteMe
 " https://github.com/Valloric/YouCompleteMe
-let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/cpp/ycm/.ycm_extra_conf.py'
+" let g:ycm_global_ycm_extra_conf = '~/.my_vim/.ycm_extra_conf.py'
 let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_seed_identifiers_with_syntax = 1
 let g:ycm_confirm_extra_conf = 0
-let g:ycm_auto_trigger = 0 
+let g:ycm_auto_trigger = 1 
+" let g:ycm_echo_current_diagnostic = 0
+let g:ycm_extra_conf_globlist = ['~/*']
 let g:ycm_key_list_select_completion =
       \ get( g:, 'ycm_key_list_select_completion', ['<C-n>'] )
 let g:ycm_key_list_previous_completion =
